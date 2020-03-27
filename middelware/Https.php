@@ -15,6 +15,8 @@ use Illuminate\Support\Facades\DB;
  */
 class Https extends Controller
 {
+    // @todo controller needed ? why ?
+
     /**
      * @param $request
      * @param Closure $next
