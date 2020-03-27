@@ -1,5 +1,9 @@
 ### Installations
 
+##### Todo
+* add routes to own file
+* add provider for routes
+
 add to bootstrap/app.php
 ```php
 $app->middleware([
